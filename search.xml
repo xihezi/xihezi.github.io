@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>VScode配置C/C++</title>
+      <link href="/2022/04/25/vscode/"/>
+      <url>/2022/04/25/vscode/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="前引"><a href="#前引" class="headerlink" title="前引"></a>前引</h1><p>我这里的环境是 Windows10&amp;11 profession workstation<br><br>翻译：是用Microsoft Edge 自动翻译,如果和其他浏览器的翻译内容有出入，请见谅！<br><br>我们在编写程序的时候需要一个编辑器，还需要一个编译器。<br><br>编辑器：这里推荐visual studio code<br><br>编译器：推荐MINGW<br></p><h2 id="VScode"><a href="#VScode" class="headerlink" title="VScode"></a>VScode</h2><h4 id="下载VScode"><a href="#下载VScode" class="headerlink" title="下载VScode"></a>下载VScode</h4><p><a href="https://code.visualstudio.com/">VScode官网链接</a><br><br><img src="/../images/vscode/vscoe.png" alt="vscode_e"><br>如果看不懂英文界面的小伙伴们可以把他翻译成简体中文。<br><br>这里我用的是Microsoft Edge ， 该界面鼠标右键，选择翻译，<br>就自动翻译为中文了。<br><br>选择你的操作系统对应的下载类型。<br><br>但在这里要注意一下，它有两个下载链接Stable 和 Insiders<br><br><img src="/../images/vscode/vscode.jpg" alt="vscodedownload"><br><br>这里我选择的是stable。然后安装好就可以了！</p><h4 id="相关的插件"><a href="#相关的插件" class="headerlink" title="相关的插件"></a>相关的插件</h4><p>打开VScode后，是全英文界面(这也没什么太大的影响)<br>选择左边栏的Extensions,然后选择搜索栏。或者使用快捷键Ctrl+Shift+X<br><br>搜索Chinese (Simplified)(简体中文)，点击install(安装)，然后等待VScode自动重新打开就好了（如果你能读懂英文界面就可以不执行这个操作）。<br><br>再次搜索C&#x2F;C++ Extension Pack,点击install就等待一两分钟就好了（具体时长由当时网速决定）<br><br>现在关于VScode的配置就完了！</p><h2 id="MINGW"><a href="#MINGW" class="headerlink" title="MINGW"></a>MINGW</h2><h4 id="下载MINGW"><a href="#下载MINGW" class="headerlink" title="下载MINGW"></a>下载MINGW</h4><p><a href="https://nuwen.net/mingw.html">mingw官网链接</a><br><br><img src="/../images/vscode/MINGW.png" alt="mingwdownload"><br><br>同上，这个英文界面也可以翻译为简体中文(这已英文界面展示)选择without-git的版本，如有git需求，请选择上面的，这里我选择的是without-git。<br><br>下载好点击安装就好了！</p><h4 id="验证MINGW是否安装好"><a href="#验证MINGW是否安装好" class="headerlink" title="验证MINGW是否安装好"></a>验证MINGW是否安装好</h4><p>在Windows的运行框内(win键+r)输入cmd，<br>在该运行框内输入 cmd(gcc –version)<br><img src="/../images/vscode/gcc.png" alt="gccinfo"><br>会返回一个版本编号<br>如果没有返回值或者报错，在前面的操作没有题时，请检查path环境变量<br></p><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>现在，你就完成了VScode搭建c&#x2F;c++!<br>相关的VScode使用内容还在更新中!<br>这里相关的分享仅仅为曦和在开发时用到的内容，如有不足请多多点评！<br>感谢你的阅读!</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello , This is Xihe&#39;s Blog!</title>
+      <link href="/2022/04/13/hello/"/>
+      <url>/2022/04/13/hello/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="正式入住"><a href="#正式入住" class="headerlink" title="正式入住"></a>正式入住</h2><p>   哈哈哈！！！<br>   我是曦和，今天我正式宣布，这个是我都小窝！<br><img src="/../images/hello.jpg"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>TEST</title>
+      <link href="/2022/04/13/test/"/>
+      <url>/2022/04/13/test/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>@keyframes gradientBG {<br>0% {<br>background-position: 0 50%;<br>}<br>50% {<br>background-position: 100% 50%;<br>}<br>100% {<br>background-position: 0 50%;<br>}<br>}<br>#web_bg {<br>background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);<br>background-size: 400% 400%;<br>animation: gradientBG 15s ease infinite;<br>}</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
