@@ -28,19 +28,6 @@
     </entry>
     
     
-    
-    <entry>
-      <title>TEST</title>
-      <link href="/2022/04/13/test/"/>
-      <url>/2022/04/13/test/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>@keyframes gradientBG {<br>0% {<br>background-position: 0 50%;<br>}<br>50% {<br>background-position: 100% 50%;<br>}<br>100% {<br>background-position: 0 50%;<br>}<br>}<br>#web_bg {<br>background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);<br>background-size: 400% 400%;<br>animation: gradientBG 15s ease infinite;<br>}</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
   
   
 </search>
